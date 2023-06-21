@@ -10,6 +10,9 @@ relationship:
 # Nodelist 
 id = ID aus der Edgelist 
 name = Voller Name 
+type:
+1 als Person 
+2 als Epsiode/Serie
 profession: 
 1 als Regisseur,
 2 als Drehbuch
